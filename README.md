@@ -16,13 +16,13 @@
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div style style="width:100%; height:auto;">
-<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" height="45" style="float:left"/ >
-<img src="https://img.icons8.com/color/50/000000/c-programming.png"height="45" style="float:left"/>
-<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" height="45" style="float:left"/>
-<img src="https://img.icons8.com/color/50/000000/css3.png" height="45"/>
+<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" height="50" style="float:left"/ >
+<img src="https://img.icons8.com/color/50/000000/c-programming.png"height="50" style="float:left"/>
+<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" height="50" style="float:left"/>
+<img src="https://img.icons8.com/color/50/000000/css3.png" height="50"/>
 <img src="https://img.icons8.com/nolan/50/unity.png" height="55" style="float:left"/>
-<img src="https://img.icons8.com/dusk/50/000000/sql.png" height="55" style="float:left"/>
-<img src="https://img.icons8.com/color/50/000000/blender-3d.png" height="55" style="float:left"/>
+<img src="https://img.icons8.com/dusk/50/000000/sql.png" height="50" style="float:left"/>
+<img src="https://img.icons8.com/color/50/000000/blender-3d.png" height="50" style="float:left"/>
 <div>
 
 <br>
