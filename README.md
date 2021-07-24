@@ -2,6 +2,10 @@
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
+ <div>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
+ </div>
+
    <div height="auto"  width="600" style="float:left">
    <ul> 
       <li>My name is Şükrü Çay and I was born in Turkey </li>
@@ -11,13 +15,11 @@
       <li> I'm wanna be professional Game Developer because of this learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
    </ul>
  </div>
-      
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
+ 
+
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div style style="width:100%; height:auto;">
- 
- 
   <table>
  <tr>
   <td><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" height="50" style="float:left"/></td>
