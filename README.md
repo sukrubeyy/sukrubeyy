@@ -22,6 +22,7 @@
 <img src="https://img.icons8.com/color/50/000000/css3.png" height="45"/>
 <img src="https://img.icons8.com/nolan/50/unity.png" height="55" style="float:left"/>
 <img src="https://img.icons8.com/dusk/50/000000/sql.png" height="55" style="float:left"/>
+<img src="https://img.icons8.com/color/50/000000/blender-3d.png" height="55" style="float:left"/>
 <div>
 
 <br>
