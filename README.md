@@ -1,7 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
-<img src="https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/Adsız%20tasarım.gif">
-
-
+<img src="https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/Adsız%20tasarım.gif" align="center">
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
