@@ -9,11 +9,9 @@
       
             
       <li> I'm wanna be professional Game Developer because of this learning a few game engine. For Example; 
-        
-         <li>Unity</li>
-         <li>Cocos2d-x</li>
-         <li>Unreal Engine 4</li>
-         
+         Unity
+         Cocos2d-x
+         Unreal Engine 4
       </li>
             
                 
