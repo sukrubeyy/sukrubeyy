@@ -29,17 +29,28 @@
 <h2 align="left">📖 What I am currently learning / improving on </h2>
  
 <div style style="width:100%; height:auto;">
+ 
+ <table>
+ <tr>
+  <td><<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" height="50" style="float:left"/>/td>
+  <td><img src="https://img.icons8.com/nolan/50/unreal-engine.png" height="50" style="float:left"/></td>
+  <td><img src="https://img.icons8.com/color/50/000000/python--v2.png" height="50" style="float:left"/></td>
+  <td><img src="https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/png-clipart-cocos2d-game-engine-c-video-game-unity-entex-selectagame-game-logo-removebg-preview.png" height="55" width="90" style="float:left"/></td>
+  </tr>
+  </table>
+ 
+ 
+
 <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" height="50" style="float:left"/>
 <img src="https://img.icons8.com/nolan/50/unreal-engine.png" height="50" style="float:left"/>
 <img src="https://img.icons8.com/color/50/000000/python--v2.png" height="50" style="float:left"/>
 <img src="https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/png-clipart-cocos2d-game-engine-c-video-game-unity-entex-selectagame-game-logo-removebg-preview.png" height="55" width="90" style="float:left"/>
 <div>
  
+ 
+ 
  <h2 align="left"> 🔍  Where to find me </h2>
  <div align="left">
-  
-   
-  
   <a href="https://www.instagram.com/sukru.beyy/">
    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
