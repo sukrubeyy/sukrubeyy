@@ -13,7 +13,7 @@
    </ul>
  </div>
    
-   <div height="auto" width="400" style="float:left">
+   <div height="auto" width="400" style="float:right">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
    </div>
    
