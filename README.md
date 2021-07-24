@@ -1,6 +1,10 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-
+<div>
+   <ul> 
+  <li> My name is Şükrü Çay and I was born in Turkey </li>
+   </ul>
+ </div>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
 
