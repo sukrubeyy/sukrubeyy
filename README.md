@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<img src="https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/Hi%20Everyone%2C%20My%20Name%20ıs%20şükrü%20welcome%20to%20my%20github%20profile.gif">
+<img src="https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/Adsız%20tasarım.gif">
 
 
 
