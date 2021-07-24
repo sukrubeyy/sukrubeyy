@@ -22,8 +22,8 @@
 <img src="https://img.icons8.com/color/50/000000/python--v2.png" height="40" style="float:left"/>
 <div>
  
- <h2 align="center" padding-left="250px"> 🔍  Where to find me </h2>
- <div align="center">
+ <h2 align="left"> 🔍  Where to find me </h2>
+ <div align="left">
   
    
   
