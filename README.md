@@ -24,12 +24,26 @@
  
  <h2> 🔍  Where to find me </h2>
  <div align="center">
-    <a href="mailto:sukru.beyy@outlook.com">
+  
+    <a href="mailto:sukru.beyy@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
     </a>
+  
+  <a href="" target="_blank">
+   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="" target="_blank"> 
+   <img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/> 
+  </a>
+  
+  <a href="" target="_blank"> 
+   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a>
+  
+  <a href="" target="_blank"> 
+   <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/> 
+  </a>
 
-  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>("www.instagram.com/sukru.beyy")
-  <img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+
  </div>
