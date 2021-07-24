@@ -21,3 +21,6 @@
 <img src="https://img.icons8.com/nolan/50/unreal-engine.png" height="45" style="float:left"/>
 <img src="https://img.icons8.com/color/50/000000/python--v2.png" height="40" style="float:left"/>
 <div>
+ 
+ <h2> 🔍  Where to find me </h2>
+ 
