@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<img src="https://www.canva.com/design/DAElIFVbVw0/ePHCygyuXuGKneSuuSdcnA/watch?utm_content=DAElIFVbVw0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<img src="https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/Hi%20Everyone%2C%20My%20Name%20ıs%20şükrü%20welcome%20to%20my%20github%20profile.gif">
 
 
 
