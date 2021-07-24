@@ -16,8 +16,8 @@
    </ul>
  </div>
  
-
-
+<br>
+<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div style style="width:100%; height:auto;">
   <table>
