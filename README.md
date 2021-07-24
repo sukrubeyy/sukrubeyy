@@ -30,7 +30,7 @@
  
 <div style style="width:100%; height:auto;">
  
- <table style="border:none;">
+ <table style="border:0px;">
  <tr>
   <td><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" height="50" style="float:left"/></td>
   <td><img src="https://img.icons8.com/nolan/50/unreal-engine.png" height="50" style="float:left"/></td>
