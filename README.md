@@ -76,4 +76,4 @@
  </div>
 
  
- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrubeyy&label=Profile%20views&color=0e75b6&style=flat" alt="sukrubeyy" /> </p>
