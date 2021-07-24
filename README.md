@@ -23,7 +23,7 @@
 <div>
  
  <h2> 🔍  Where to find me </h2>
- <div>
+ <div align="center">
   <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/>
