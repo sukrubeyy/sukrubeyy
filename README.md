@@ -1,8 +1,10 @@
 <h1 align="center"> Hi there 👋 </h1>
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div height="auto" width="100%" height="auto">
-   
+
+
+
+ <h2 align="left">👨🏻‍💻 About Me:</h2>
+
    <div height="auto"  width="600" style="float:left">
    <ul> 
       <li>My name is Şükrü Çay and I was born in Turkey </li>
@@ -11,20 +13,8 @@
       <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
       <li> I'm wanna be professional Game Developer because of this learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
    </ul>
- </div>
-   
-   <div height="auto" width="400" style="float:right">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
-   </div>
-   
-   </div>
-   
-   
-
  
-
-
-
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div style style="width:100%; height:auto;">
