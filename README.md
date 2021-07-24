@@ -26,7 +26,7 @@
  <div align="center">
   
     <a href="mailto:sukru.beyy@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
     </a>
   
   <a href="" target="_blank">
