@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 <h2 align="right"> My name is Sukru and i'm Game Developer </h2>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" align="right">
