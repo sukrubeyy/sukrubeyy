@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div height="auto">
+<div height="auto" width="100%" height="auto">
    
    <div height="auto"  width="600" style="float:left">
    <ul> 
@@ -9,8 +9,7 @@
       <li>I'm 22 years old</li>
       <li>I graduated from high school in Web Development </li>
       <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
-      <li> I'm wanna be professional Game Developer because of this learning a few game engine. 
-         For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
+      <li> I'm wanna be professional Game Developer because of this learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
    </ul>
  </div>
    
