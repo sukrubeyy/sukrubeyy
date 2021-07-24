@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div height="auto" width="100%">
+<div height="auto" >
    <ul> 
       <li>My name is Şükrü Çay and I was born in Turkey </li>
       <li>I'm 22 years old</li>
