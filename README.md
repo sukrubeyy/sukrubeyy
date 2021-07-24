@@ -14,8 +14,9 @@
 <div>
 
 <br>
-📖 ##What I am currently learning / improving on
- <div style style="width:100%; height:auto;">
+<h2 align="left">📖 What I am currently learning / improving on </h2>
+ 
+<div style style="width:100%; height:auto;">
 <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" height="45" style="float:left"/>
 <img src="https://img.icons8.com/nolan/50/unreal-engine.png" height="45" style="float:left"/>
 <img src="https://img.icons8.com/color/50/000000/python--v2.png" height="40" style="float:left"/>
