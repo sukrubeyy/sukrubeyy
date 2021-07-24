@@ -26,7 +26,7 @@
 <br>
 <h2 align="left">📖 What I am currently learning / improving on </h2>
  
-<div style style="width:100%; height:auto;">
+<div style="width:100%; height:auto;">
    <table>
  <tr>
   <td style="border:none;"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" height="50" style="float:left"/></td>
@@ -38,16 +38,19 @@
 </div>
  
  
- <div>
-  </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrubeyy&show_icons=true&locale=en&layout=compact" alt="sukrubeyy" /></p>
+ <div style="width:100%; height:auto;">
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrubeyy&show_icons=true&locale=en&layout=compact" alt="sukrubeyy" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sukrubeyy&show_icons=true&locale=en" alt="sukrubeyy" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sukrubeyy&" alt="sukrubeyy" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrubeyy&label=Profile%20views&color=0e75b6&style=flat" alt="sukrubeyy" /> </p>
+ 
+  </div>
+
+
  
  
  <h2 align="left"> 🔍  Where to find me </h2>
