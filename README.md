@@ -7,9 +7,9 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/ height="45">
 <img src="https://img.icons8.com/color/50/000000/c-programming.png"/ height="45">
-<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" height="45"/>
+<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" height="45"/>
+<img src="https://img.icons8.com/color/50/000000/css3.png" height="45"/>
 
 
 
