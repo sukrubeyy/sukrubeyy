@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<img src="https://www.canva.com/design/DAElIFVbVw0/nDGfombLaprD3gHLAxDxQA/view?utm_content=DAElIFVbVw0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview">
+<img src="https://www.canva.com/design/DAElIFVbVw0/ePHCygyuXuGKneSuuSdcnA/watch?utm_content=DAElIFVbVw0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
 
 
 
