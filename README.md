@@ -3,10 +3,18 @@
 <div>
    <ul> 
       <li>My name is Şükrü Çay and I was born in Turkey </li>
+      <li>I'm 22 years old</li>
       <li>I graduated from high school in Web Development </li>
       <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
-      <li> </li>
-      <li> </li>
+      
+      <li>I'm wanna be professional Game Developer because of this learning a few game engine. For Example; 
+        <ul>
+         <li>Unity</li>
+         <li>Cocos2d-x</li>
+         <li>Unreal Engine 4</li>
+         </ul>
+      </li>
+      
       <li> </li>
    </ul>
  </div>
