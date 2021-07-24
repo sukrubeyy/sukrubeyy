@@ -2,7 +2,12 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <div>
    <ul> 
-  <li> My name is Şükrü Çay and I was born in Turkey </li>
+      <li>My name is Şükrü Çay and I was born in Turkey </li>
+      <li>I graduated from high school in Web Development </li>
+      <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
+      <li> </li>
+      <li> </li>
+      <li> </li>
    </ul>
  </div>
 
