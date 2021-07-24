@@ -73,5 +73,32 @@
   <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
     </a>
 
-
  </div>
+ 
+ <svg xmlns="http://www.w3.org/2000/svg" width="350" height="165" viewBox="0 0 350 165" fill="none">
+    <style>
+      .header {
+        font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+        fill: #2f80ed;
+        animation: fadeInAnimation 0.8s ease-in-out forwards;
+      }
+      .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333 }
+
+      
+/* Animations */
+@keyframes scaleInAnimation {
+  from {
+    transform: translate(-5px, 5px) scale(0);
+  }
+  to {
+    transform: translate(-5px, 5px) scale(1);
+  }
+}
+@keyframes fadeInAnimation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
