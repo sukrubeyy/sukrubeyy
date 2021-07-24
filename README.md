@@ -7,14 +7,16 @@
       <li>I graduated from high school in Web Development </li>
       <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
       
-      <li>I'm wanna be professional Game Developer because of this learning a few game engine. For Example; 
+             <div>
+      <li> I'm wanna be professional Game Developer because of this learning a few game engine. For Example; 
         <ul>
          <li>Unity</li>
          <li>Cocos2d-x</li>
          <li>Unreal Engine 4</li>
          </ul>
       </li>
-      
+             <div>
+                
       <li> </li>
    </ul>
  </div>
