@@ -14,8 +14,8 @@
       <li> I'm wanna be professional Game Developer because of this learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
    </ul>
  </div>
- 
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
+      
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div style style="width:100%; height:auto;">
