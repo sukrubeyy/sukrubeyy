@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My Name is Sukru and I'm Game Developer
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" align="right">
 
 - 🔭 I’m currently working on C# And Unity
 - 🌱 I’m currently learning C++ , Python for Machine Learning
