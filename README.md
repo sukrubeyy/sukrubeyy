@@ -41,20 +41,18 @@
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrubeyy&show_icons=true&locale=en&layout=compact" alt="sukrubeyy" /></p>
-<br>
-<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sukrubeyy&show_icons=true&locale=en" alt="sukrubeyy" /></p>
-<br>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukrubeyy&" alt="sukrubeyy" /></p>
-<br>
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrubeyy&label=Profile%20views&color=0e75b6&style=flat" alt="sukrubeyy" /> </p>
+ 
  
  <h2 align="left"> 🔍  Where to find me </h2>
  <div align="left">
  <a href="https://www.instagram.com/sukru.beyy/">
- <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
   
   
