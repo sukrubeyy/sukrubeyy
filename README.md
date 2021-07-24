@@ -13,6 +13,7 @@
       <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
       <li> I'm wanna be professional Game Developer because of this learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
    </ul>
+ </div>
  
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align="right">
 
