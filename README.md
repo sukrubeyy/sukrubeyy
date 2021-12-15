@@ -7,7 +7,7 @@
 
    <ul> 
       <li>My name is Şükrü Çay and I was born in Turkey </li>
-      <li>I'm 22 years old</li>
+      <li>I'm 23 years old</li>
       <li>I graduated from high school in Web Development </li>
       <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
       <li> I'm wanna be professional Game Developer. Because of this i'm learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
@@ -24,7 +24,6 @@
 
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrubeyy&show_icons=true&locale=en&layout=compact" alt="sukrubeyy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukrubeyy&show_icons=true&locale=en" alt="sukrubeyy" /></p>
 
