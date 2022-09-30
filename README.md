@@ -9,7 +9,7 @@
       <li>My name is Şükrü Çay and I was born in Turkey </li>
       <li>I'm 23 years old</li>
       <li>I graduated from high school in Web Development </li>
-      <li>I'm a 3rd student at Mehmet Akif University departmant of Computer Science And Information System</li>
+      <li>I'm student at Mehmet Akif University departmant of Computer Science And Information System</li>
       <li> I'm wanna be professional Game Developer. Because of this i'm learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
    </ul>
 
