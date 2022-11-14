@@ -10,7 +10,7 @@
       <li>I'm 23 years old</li>
       <li>I graduated from high school in Web Development </li>
       <li>I'm student at Mehmet Akif University departmant of Computer Science And Information System</li>
-      <li> I'm wanna be professional Game Developer. Because of this i'm learning a few game engine. For Example; Unity, Cocos2d-x, Unreal Engine 4</li>    
+      <li> I'm wanna be professional Game Developer.</li>    
    </ul>
 
  <br>
