@@ -12,8 +12,6 @@ Hello everyone, I'm Şükrü. I'm a game developer. <br>I develop game mechanics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sukrubeyy&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukrubeyy&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sukrubeyyy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sukrubeyy&icon=9&color=12)](https://visitcount.itsvg.in)
